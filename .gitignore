@@ -1,4 +1,4 @@
 /.idea/
-/mongodb/
-/neo4j/
-/postgres/
+/mongodb_data/
+/neo4j_data/
+/postgresql_data/

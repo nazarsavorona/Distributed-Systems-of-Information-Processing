@@ -129,8 +129,8 @@ if __name__ == '__main__':
     ]
 
     # Insert each user and their resume into the database
-    for item in users_and_resumes:
-        insert_user_and_resume(users_collection, item['user'], item['resume'])
+    # for item in users_and_resumes:
+    #     insert_user_and_resume(users_collection, item['user'], item['resume'])
 
     user_login = 'Andrii'
 
