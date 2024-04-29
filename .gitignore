@@ -3,3 +3,5 @@
 /*/neo4j_data/
 /*/postgresql_data/
 /*/mariadb_data/
+/market-basket/mariadb_columnstore_data/
+/market-basket/mariadb_columnstore_columnstore_data/
