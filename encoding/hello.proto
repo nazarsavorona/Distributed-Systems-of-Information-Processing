@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package hello;
+
+// The greeting message contains a name.
+message Greeting {
+  string name = 1;
+}
+
+// The response message contains a greeting message.
+message Response {
+  string message = 1;
+}
