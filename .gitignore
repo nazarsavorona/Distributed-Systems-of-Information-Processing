@@ -3,10 +3,6 @@
 /*/neo4j_data/
 /*/postgresql_data/
 /*/mariadb_data/
-/market-basket/mariadb_columnstore_data/
-/market-basket/mariadb_columnstore_columnstore_data/
-/protobuf/client/.idea/.gitignore
-/protobuf/client/.idea/compiler.xml
-/protobuf/client/.idea/jarRepositories.xml
-/protobuf/client/.idea/misc.xml
-/protobuf/client/.idea/vcs.xml
+/market-basket/mariadb_columnstore*
+/protobuf/client/.idea/
+/replication/active-active/pgdata*
